@@ -1,4 +1,10 @@
 George Brown College is located in Toronto, Ontario, Canada.
 It offers programs in Business, Computing, Engineering, and more.
 
+The college has multiple campuses including:
+- Casa Loma Campus
+- St. James Campus
+- Waterfront Campus
+
+
 
