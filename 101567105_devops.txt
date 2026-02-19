@@ -1,1 +1,2 @@
 DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the development lifecycle and deliver high-quality software continuously
+Tools commonly used in DevOps include Git, GitHub, Docker, Jenkins, and Kubernetes.
