@@ -1,0 +1,6 @@
+SDLC stands for Software Development Life Cycle.
+
+It includes planning, design, development, testing, deployment, and maintenance.
+
+DevOps improves the SDLC by automating testing and deployment.
+
