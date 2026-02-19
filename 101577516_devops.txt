@@ -1,0 +1,1 @@
+Devops with course code COMP2156, is mainly about a software development and IT operations culture that focuses on collaboration, automation, and continuous delivery to build and deploy software faster and more reliably.
