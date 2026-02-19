@@ -1,1 +1,2 @@
-DevOps in SDLC
+The Software Development Life Cycle (SDLC) is a process used to design, develop, test, and deploy software.
+
