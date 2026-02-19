@@ -8,3 +8,5 @@ The college has multiple campuses including:
 
 George Brown College is now officially known as George Brown Polytechnic is now a publicly funded college
 of applied arts and technology serving tens of thousands of students through programs across diverse fields
+
+I am currently studying at George Brown College and learning DevOps concepts.
