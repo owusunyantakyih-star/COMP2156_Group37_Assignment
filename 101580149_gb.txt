@@ -1,0 +1,12 @@
+George Brown College is located in Toronto, Ontario, Canada.
+It offers programs in Business, Computing, Engineering, and more.
+
+The college has multiple campuses including:
+- Casa Loma Campus
+- St. James Campus
+- Waterfront Campus
+
+George Brown College is now officially known as George Brown Polytechnic is now a publicly funded college
+of applied arts and technology serving tens of thousands of students through programs across diverse fields
+
+I am currently studying at George Brown College and learning DevOps concepts.

@@ -1,0 +1,6 @@
+DevOps is a software development methodology
+that focuses on collaboration between developers and operations teams.
+
+DevOps focuses on automation, collaboration, and continuous integration.
+
+In COMP2156, students learn Git, GitHub, and CI/CD tools.
