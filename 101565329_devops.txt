@@ -1,1 +1,2 @@
 COMP 2156 – DevOps for System Administration introduces students to modern DevOps practices and tools. DevOps combines development and operations to improve collaboration and efficiency.
+The course focuses heavily on version control using Git and GitHub. Students learn how to create branches, manage commits, resolve conflicts, and collaborate using pull requests.
