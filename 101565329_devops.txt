@@ -1,0 +1,1 @@
+COMP 2156 – DevOps for System Administration introduces students to modern DevOps practices and tools. DevOps combines development and operations to improve collaboration and efficiency.
