@@ -1,0 +1,5 @@
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the development lifecycle and deliver high-quality software continuously
+Tools commonly used in DevOps include Git, GitHub, Docker, Jenkins, and Kubernetes.
+In COMP2156, we learn how to use version control systems, manage repositories, and automate workflows using GitHub Actions.
+
+DevOps improves efficiency, reduces errors, and enhances communication between development and operations teams.
