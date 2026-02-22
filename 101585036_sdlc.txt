@@ -1,3 +1,6 @@
 SDLC stand for Software Development Life cycle-
 
 It is used to plan, design, build, test and deploy software.
+It is the step-by-step process teams follow to build software.Devops improves SDLC by enabling 
+automation and continuos delivery.
+
