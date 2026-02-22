@@ -1,4 +1,3 @@
-Key topics covered in COMP 2156 include version control with Git, continuous integration/deployment pipelines, 
-containerization with Docker, and infrastructure as code using tools like Terraform and Ansible.
-Students learn to automate testing, deployment, and monitoring processes to ensure faster and more reliable software releases.
-The course emphasizes collaboration, communication, and the cultural shift required for successful DevOps implementation.
+COMP 2156 DevOps focuses on collaboration between development
+and operations teams. The course introduces CI/CD, Git, and
+automation tools that improve software delivery.
