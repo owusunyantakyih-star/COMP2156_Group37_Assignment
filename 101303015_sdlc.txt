@@ -1,0 +1,8 @@
+The Software Development Life Cycle (SDLC) is a process used to design, develop, test, and maintain software. 
+It includes phases such as planning, design, implementation, testing, and maintenance.
+
+Understanding SDLC helps teams deliver high-quality software efficiently.
+
+DevOps plays an important role in SDLC by automating tasks and improving collaboration.
+
+This structured approach helps teams manage software projects more effectively.
