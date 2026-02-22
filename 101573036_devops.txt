@@ -1,0 +1,6 @@
+COMP 2156 DevOps focuses on collaboration between development
+and operations teams. The course introduces CI/CD, Git, and
+automation tools that improve software delivery.
+
+Git makes team collaboration smoother
+Automation reduces human error significantly.
