@@ -4,3 +4,5 @@ It includes phases such as planning, design, implementation, testing, and mainte
 Understanding SDLC helps teams deliver high-quality software efficiently.
 
 DevOps plays an important role in SDLC by automating tasks and improving collaboration.
+
+This structured approach helps teams manage software projects more effectively.
