@@ -1,5 +1,5 @@
 # COMP2156_Group37_Assignment
-Group Repo
+This repository contains files created by the students below through collaboration. This readme.md file shows who created what file.
 
 ## Group Members
 
@@ -36,3 +36,38 @@ Files Created:
 - 101565329_sd1c.txt
 
 Total Commits: 10
+
+### Abdulrahman-abdo
+
+Branch Name: 101573036-Abdulrahman
+
+Files Created:
+- 101573036_gb.txt
+- 101573036_devops.txt
+- 101573036_sd1c.txt
+
+Total Commits: 10+
+
+### Avhilasha Thapa
+
+Branch Name: 101567105-Avhilasha
+
+Files Created:
+- 101567105_gb.txt
+- 101567105_devops.txt
+- 101567105_sd1c.txt
+
+Total Commits: 10+
+
+### Egbuna David Awele
+
+Branch Name: 101585036-David
+
+Files Created:
+- 101585036_gb.txt
+- 101585036_devops.txt
+- 101585036_sd1c.txt
+
+Total Commits: 10+
+
+
