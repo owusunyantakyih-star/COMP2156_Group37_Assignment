@@ -2,3 +2,4 @@ Devops stands for developer operaions.
 It combines development and operations to shorten the software delivery cycle and improve reliability
 Devops enables faster software delivery and improves its reliability
 CI/CD is a key devops practice which stands for continuous integration and continuos deployment.
+It is the methodology that automates software deploymment lifecycle, which allows teams to frequently build, test and deploy code changes.
