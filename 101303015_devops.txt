@@ -1,4 +1,4 @@
-COMP 2156 is a DevOps course that introduces students to modern software development and system administration practices. 
+COMP 2156 is a DevOps course that introduces learners to modern software development and system administration practices. 
 The course focuses on version control using Git, teamwork, and automation.
 
 Students learn how DevOps helps improve collaboration between developers and IT operations teams.
