@@ -35,7 +35,7 @@ Files Created:
 - 101565329_devops.txt
 - 101565329_sd1c.txt
 
-Total Commits: 10
+Total Commits: 10+
 
 ### Abdulrahman-abdo
 
@@ -70,4 +70,13 @@ Files Created:
 
 Total Commits: 10+
 
+### Sueyain Williams
 
+Branch Name: 101303015-Sueyain
+
+Files Created:
+- 101303015_gb.txt
+- 101303015_devops.txt
+- 101303015_sd1c.txt
+
+Total Commits: 10+
